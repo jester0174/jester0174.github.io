@@ -9,7 +9,7 @@ This is my dark little corner of the internet.
 
 ---
 
-Posts found: **{{ site.posts | size }}**
+<p>Posts found: {{ site.posts | size }}</p>
 
 ## Posts
 
