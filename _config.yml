@@ -1,0 +1,13 @@
+title: "My Hacker Blog"
+description: "Dark mode. Code. Chaos."
+baseurl: "" # keep empty for username.github.io
+url: "https://jester0174.github.io"  # change USERNAME
+
+theme: jekyll-theme-hacker
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
