@@ -8,8 +8,9 @@ title: Home
 This is my dark little corner of the internet.
 
 ---
+{% assign post_count = site.posts | size %}
 
-<p>Posts found: {{ site.posts | size }}</p>
+<p>Posts found: {{ post_count }}</p>
 
 ## Posts
 
